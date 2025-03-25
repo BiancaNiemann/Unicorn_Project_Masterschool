@@ -1,13 +1,13 @@
 
 # Unicorn Company Project Group 4
-##### Team 
+#### Team 
 - Vishnu Padmini Lanka
 - Bianca Niemann
 - Meenakshi Subramaniam
 - Julius Abongwa
 
 ### Unicorn Company Sales Performance Analysis
-##### Introduction
+#### Introduction
 This report provides a comprehensive analysis of Unicorn sales performance, highlighting key insights into regional trends, product category performance, and profitability. By examining sales patterns and identifying areas for improvement, we can make data-driven decisions to enhance revenue growth and operational efficiency.
 
 1.  Sales Trend Over Time 
@@ -29,7 +29,7 @@ This report provides a comprehensive analysis of Unicorn sales performance, high
 * Some products rely heavily on discounts to drive sales, which may not be sustainable in the long term.
 * Analyzing the discount threshold where sales peak without eroding profit margins is essential.
 
-##### Conclusions
+#### Conclusions
 * Focus on high-performing regions and replicate success strategies in weaker areas.
 * Optimize discount and pricing strategies to maximize both sales volume and profitability.
 * Increase marketing efforts during low-sales periods to maintain steady growth.
@@ -37,7 +37,7 @@ This report provides a comprehensive analysis of Unicorn sales performance, high
 * Evaluate product profitability to refine pricing structure and improve cost efficiencies.
 * By implementing these insights, we can drive sustainable sales growth and profitability while optimizing sales strategies. This data-driven approach will ensure strategic decision-making for future business expansion and success.
 
-##### References
+#### References
 1. Tableau Link
   * https://public.tableau.com/app/profile/bianca.niemann/viz/UnicornProjectGroup4/FinalPresentationDashboard?publish=yes
 
