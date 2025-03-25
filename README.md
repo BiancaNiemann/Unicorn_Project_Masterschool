@@ -1,10 +1,10 @@
 
 # Unicorn Company Project Group 4
 #### Team 
-- Vishnu Padmini Lanka
+- Vishnu ****
 - Bianca Niemann
-- Meenakshi Subramaniam
-- Julius Abongwa
+- Meenakshi *****
+- Julius ****
 
 ### Unicorn Company Sales Performance Analysis
 #### Introduction
